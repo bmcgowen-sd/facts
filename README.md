@@ -21,8 +21,8 @@ The solution consists of several projects:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
-   cd facts-api-dev
+   git clone https://github.com/bmcgowen-sd/facts
+   cd facts
    ```
 
 2. Restore NuGet packages:
