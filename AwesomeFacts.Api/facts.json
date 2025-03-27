@@ -1,0 +1,25 @@
+{
+  "facts": [
+    {
+      "id": 1,
+      "text": "The first computer mouse was made of wood in 1964 by Douglas Engelbart",
+      "category": "Technology",
+      "createdAt": "0001-01-01T00:00:00",
+      "isVerified": true
+    },
+    {
+      "id": 2,
+      "text": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
+      "category": "Science",
+      "createdAt": "0001-01-01T00:00:00",
+      "isVerified": false
+    },
+    {
+      "id": 3,
+      "text": "The average cloud weighs around 1.1 million pounds due to the weight of water droplets and water vapor",
+      "category": "Science",
+      "createdAt": "2025-03-27T03:55:06.9980291Z",
+      "isVerified": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "facts": [
+    {
+      "id": 1,
+      "content": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
+      "category": "Science",
+      "createdAt": "2024-03-27T00:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": 2,
+      "content": "The shortest war in history lasted only 38 minutes between Britain and Zanzibar in 1896.",
+      "category": "History",
+      "createdAt": "2024-03-27T00:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": 3,
+      "content": "A day on Venus is longer than its year. Venus takes 243 Earth days to rotate on its axis but only 225 Earth days to orbit the Sun.",
+      "category": "Science",
+      "createdAt": "2024-03-27T00:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": 4,
+      "content": "The first oranges weren't orange. The original oranges from Southeast Asia were actually green.",
+      "category": "Science",
+      "createdAt": "2024-03-27T00:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": 5,
+      "content": "The Great Wall of China is not visible from space with the naked eye.",
+      "category": "History",
+      "createdAt": "2024-03-27T00:00:00Z",
+      "isVerified": true
+    }
+  ]
+} 
